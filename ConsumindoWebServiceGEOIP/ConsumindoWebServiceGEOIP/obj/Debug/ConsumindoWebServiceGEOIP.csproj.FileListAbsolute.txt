@@ -1,0 +1,13 @@
+c:\users\diegou\documents\visual studio 2012\Projects\ConsumindoWebServiceGEOIP\ConsumindoWebServiceGEOIP\obj\Debug\ConsumindoWebServiceGEOIP.csprojResolveAssemblyReference.cache
+c:\users\diegou\documents\visual studio 2012\Projects\ConsumindoWebServiceGEOIP\ConsumindoWebServiceGEOIP\obj\Debug\App.g.cs
+c:\users\diegou\documents\visual studio 2012\Projects\ConsumindoWebServiceGEOIP\ConsumindoWebServiceGEOIP\obj\Debug\MainPage.g.cs
+c:\users\diegou\documents\visual studio 2012\Projects\ConsumindoWebServiceGEOIP\ConsumindoWebServiceGEOIP\obj\Debug\ConsumindoWebServiceGEOIP.g.resources
+c:\users\diegou\documents\visual studio 2012\Projects\ConsumindoWebServiceGEOIP\ConsumindoWebServiceGEOIP\Bin\Debug\ApplicationIcon.png
+c:\users\diegou\documents\visual studio 2012\Projects\ConsumindoWebServiceGEOIP\ConsumindoWebServiceGEOIP\Bin\Debug\Background.png
+c:\users\diegou\documents\visual studio 2012\Projects\ConsumindoWebServiceGEOIP\ConsumindoWebServiceGEOIP\Bin\Debug\ConsumindoWebServiceGEOIP.dll
+c:\users\diegou\documents\visual studio 2012\Projects\ConsumindoWebServiceGEOIP\ConsumindoWebServiceGEOIP\Bin\Debug\ConsumindoWebServiceGEOIP.pdb
+c:\users\diegou\documents\visual studio 2012\Projects\ConsumindoWebServiceGEOIP\ConsumindoWebServiceGEOIP\Bin\Debug\AppManifest.xaml
+c:\users\diegou\documents\visual studio 2012\Projects\ConsumindoWebServiceGEOIP\ConsumindoWebServiceGEOIP\Bin\Debug\ConsumindoWebServiceGEOIP.xap
+c:\users\diegou\documents\visual studio 2012\Projects\ConsumindoWebServiceGEOIP\ConsumindoWebServiceGEOIP\obj\Debug\ConsumindoWebServiceGEOIP.dll
+c:\users\diegou\documents\visual studio 2012\Projects\ConsumindoWebServiceGEOIP\ConsumindoWebServiceGEOIP\obj\Debug\ConsumindoWebServiceGEOIP.pdb
+c:\users\diegou\documents\visual studio 2012\Projects\ConsumindoWebServiceGEOIP\ConsumindoWebServiceGEOIP\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,127 @@
+C:\Users\wesleycosta\Desktop\new project\usandonfc\usandonfc\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\wesleycosta\Desktop\new project\usandonfc\usandonfc\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\wesleycosta\Desktop\new project\usandonfc\usandonfc\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\wesleycosta\Desktop\new project\usandonfc\usandonfc\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\wesleycosta\Desktop\new project\usandonfc\usandonfc\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\wesleycosta\Desktop\new project\usandonfc\usandonfc\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\wesleycosta\Desktop\new project\usandonfc\usandonfc\Bin\Debug\usandonfc.dll
+C:\Users\wesleycosta\Desktop\new project\usandonfc\usandonfc\Bin\Debug\usandonfc.pdb
+C:\Users\wesleycosta\Desktop\new project\usandonfc\usandonfc\Bin\Debug\AppManifest.xaml
+C:\Users\wesleycosta\Desktop\new project\usandonfc\usandonfc\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\wesleycosta\Desktop\new project\usandonfc\usandonfc\Bin\Debug\usandonfc_Debug_AnyCPU.xap
+C:\Users\wesleycosta\Desktop\new project\usandonfc\usandonfc\obj\Debug\App.g.cs
+C:\Users\wesleycosta\Desktop\new project\usandonfc\usandonfc\obj\Debug\MainPage.g.cs
+C:\Users\wesleycosta\Desktop\new project\usandonfc\usandonfc\obj\Debug\usandonfc.g.resources
+C:\Users\wesleycosta\Desktop\new project\usandonfc\usandonfc\obj\Debug\usandonfc.Resources.AppResources.resources
+C:\Users\wesleycosta\Desktop\new project\usandonfc\usandonfc\obj\Debug\usandonfc.csproj.GenerateResource.Cache
+C:\Users\wesleycosta\Desktop\new project\usandonfc\usandonfc\obj\Debug\usandonfc.dll
+C:\Users\wesleycosta\Desktop\new project\usandonfc\usandonfc\obj\Debug\usandonfc.pdb
+C:\Users\wesleycosta\Desktop\new project\usandonfc\usandonfc\obj\Debug\XapCacheFile.xml
+C:\Users\wesleycosta\Desktop\test\usandonfc\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\wesleycosta\Desktop\test\usandonfc\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\wesleycosta\Desktop\test\usandonfc\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\wesleycosta\Desktop\test\usandonfc\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\wesleycosta\Desktop\test\usandonfc\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\wesleycosta\Desktop\test\usandonfc\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\wesleycosta\Desktop\test\usandonfc\Bin\Debug\usandonfc.dll
+C:\Users\wesleycosta\Desktop\test\usandonfc\Bin\Debug\usandonfc.pdb
+C:\Users\wesleycosta\Desktop\test\usandonfc\Bin\Debug\AppManifest.xaml
+C:\Users\wesleycosta\Desktop\test\usandonfc\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\wesleycosta\Desktop\test\usandonfc\Bin\Debug\usandonfc_Debug_AnyCPU.xap
+C:\Users\wesleycosta\Desktop\test\usandonfc\obj\Debug\App.g.cs
+C:\Users\wesleycosta\Desktop\test\usandonfc\obj\Debug\MainPage.g.cs
+C:\Users\wesleycosta\Desktop\test\usandonfc\obj\Debug\usandonfc.g.resources
+C:\Users\wesleycosta\Desktop\test\usandonfc\obj\Debug\usandonfc.Resources.AppResources.resources
+C:\Users\wesleycosta\Desktop\test\usandonfc\obj\Debug\usandonfc.csproj.GenerateResource.Cache
+C:\Users\wesleycosta\Desktop\test\usandonfc\obj\Debug\usandonfc.dll
+C:\Users\wesleycosta\Desktop\test\usandonfc\obj\Debug\usandonfc.pdb
+C:\Users\wesleycosta\Desktop\test\usandonfc\obj\Debug\XapCacheFile.xml
+C:\Users\wesleycosta\Desktop\test\usandonfc\usandonfc\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\wesleycosta\Desktop\test\usandonfc\usandonfc\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\wesleycosta\Desktop\test\usandonfc\usandonfc\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\wesleycosta\Desktop\test\usandonfc\usandonfc\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\wesleycosta\Desktop\test\usandonfc\usandonfc\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\wesleycosta\Desktop\test\usandonfc\usandonfc\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\wesleycosta\Desktop\test\usandonfc\usandonfc\Bin\Debug\usandonfc.dll
+C:\Users\wesleycosta\Desktop\test\usandonfc\usandonfc\Bin\Debug\usandonfc.pdb
+C:\Users\wesleycosta\Desktop\test\usandonfc\usandonfc\Bin\Debug\AppManifest.xaml
+C:\Users\wesleycosta\Desktop\test\usandonfc\usandonfc\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\wesleycosta\Desktop\test\usandonfc\usandonfc\Bin\Debug\usandonfc_Debug_AnyCPU.xap
+C:\Users\wesleycosta\Desktop\test\usandonfc\usandonfc\obj\Debug\App.g.cs
+C:\Users\wesleycosta\Desktop\test\usandonfc\usandonfc\obj\Debug\MainPage.g.cs
+C:\Users\wesleycosta\Desktop\test\usandonfc\usandonfc\obj\Debug\usandonfc.g.resources
+C:\Users\wesleycosta\Desktop\test\usandonfc\usandonfc\obj\Debug\usandonfc.Resources.AppResources.resources
+C:\Users\wesleycosta\Desktop\test\usandonfc\usandonfc\obj\Debug\usandonfc.csproj.GenerateResource.Cache
+C:\Users\wesleycosta\Desktop\test\usandonfc\usandonfc\obj\Debug\usandonfc.dll
+C:\Users\wesleycosta\Desktop\test\usandonfc\usandonfc\obj\Debug\usandonfc.pdb
+C:\Users\wesleycosta\Desktop\test\usandonfc\usandonfc\obj\Debug\XapCacheFile.xml
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta\test\usandonfc\usandonfc\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta\test\usandonfc\usandonfc\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta\test\usandonfc\usandonfc\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta\test\usandonfc\usandonfc\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta\test\usandonfc\usandonfc\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta\test\usandonfc\usandonfc\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta\test\usandonfc\usandonfc\Bin\Debug\usandonfc.dll
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta\test\usandonfc\usandonfc\Bin\Debug\usandonfc.pdb
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta\test\usandonfc\usandonfc\Bin\Debug\AppManifest.xaml
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta\test\usandonfc\usandonfc\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta\test\usandonfc\usandonfc\Bin\Debug\usandonfc_Debug_AnyCPU.xap
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta\test\usandonfc\usandonfc\obj\Debug\App.g.cs
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta\test\usandonfc\usandonfc\obj\Debug\MainPage.g.cs
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta\test\usandonfc\usandonfc\obj\Debug\usandonfc.g.resources
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta\test\usandonfc\usandonfc\obj\Debug\usandonfc.Resources.AppResources.resources
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta\test\usandonfc\usandonfc\obj\Debug\usandonfc.csproj.GenerateResource.Cache
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta\test\usandonfc\usandonfc\obj\Debug\usandonfc.dll
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta\test\usandonfc\usandonfc\obj\Debug\usandonfc.pdb
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta\test\usandonfc\usandonfc\obj\Debug\XapCacheFile.xml
+C:\Users\wesleycosta\Desktop\Nova pasta\usandonfc\usandonfc\obj\Debug\App.g.cs
+C:\Users\wesleycosta\Desktop\Nova pasta\usandonfc\usandonfc\obj\Debug\Historico.g.cs
+C:\Users\wesleycosta\Desktop\Nova pasta\usandonfc\usandonfc\obj\Debug\MainPage.g.cs
+C:\Users\wesleycosta\Desktop\Nova pasta\usandonfc\usandonfc\obj\Debug\SecondPage.g.cs
+C:\Users\wesleycosta\Desktop\Nova pasta\usandonfc\usandonfc\obj\Debug\usandonfc.g.resources
+C:\Users\wesleycosta\Desktop\Nova pasta\usandonfc\usandonfc\obj\Debug\usandonfc.Resources.AppResources.resources
+C:\Users\wesleycosta\Desktop\Nova pasta\usandonfc\usandonfc\obj\Debug\usandonfc.csproj.GenerateResource.Cache
+C:\Users\wesleycosta\Desktop\Nova pasta\usandonfc\usandonfc\obj\Debug\usandonfc.dll
+C:\Users\wesleycosta\Desktop\Nova pasta\usandonfc\usandonfc\obj\Debug\usandonfc.pdb
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta (2)\usandonfc\usandonfc\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta (2)\usandonfc\usandonfc\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta (2)\usandonfc\usandonfc\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta (2)\usandonfc\usandonfc\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta (2)\usandonfc\usandonfc\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta (2)\usandonfc\usandonfc\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta (2)\usandonfc\usandonfc\Bin\Debug\usandonfc.dll
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta (2)\usandonfc\usandonfc\Bin\Debug\usandonfc.pdb
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta (2)\usandonfc\usandonfc\Bin\Debug\AppManifest.xaml
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta (2)\usandonfc\usandonfc\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta (2)\usandonfc\usandonfc\Bin\Debug\usandonfc_Debug_AnyCPU.xap
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta (2)\usandonfc\usandonfc\obj\Debug\App.g.cs
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta (2)\usandonfc\usandonfc\obj\Debug\Historico.g.cs
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta (2)\usandonfc\usandonfc\obj\Debug\MainPage.g.cs
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta (2)\usandonfc\usandonfc\obj\Debug\SecondPage.g.cs
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta (2)\usandonfc\usandonfc\obj\Debug\usandonfc.g.resources
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta (2)\usandonfc\usandonfc\obj\Debug\usandonfc.Resources.AppResources.resources
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta (2)\usandonfc\usandonfc\obj\Debug\usandonfc.csproj.GenerateResource.Cache
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta (2)\usandonfc\usandonfc\obj\Debug\usandonfc.dll
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta (2)\usandonfc\usandonfc\obj\Debug\usandonfc.pdb
+C:\Users\filipecampos\Desktop\App NFC\Nova pasta (2)\usandonfc\usandonfc\obj\Debug\XapCacheFile.xml
+C:\Users\wesleycosta\Desktop\controle\Nova pasta (2)\usandonfc\usandonfc\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\wesleycosta\Desktop\controle\Nova pasta (2)\usandonfc\usandonfc\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\wesleycosta\Desktop\controle\Nova pasta (2)\usandonfc\usandonfc\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\wesleycosta\Desktop\controle\Nova pasta (2)\usandonfc\usandonfc\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\wesleycosta\Desktop\controle\Nova pasta (2)\usandonfc\usandonfc\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\wesleycosta\Desktop\controle\Nova pasta (2)\usandonfc\usandonfc\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\wesleycosta\Desktop\controle\Nova pasta (2)\usandonfc\usandonfc\Bin\Debug\usandonfc.dll
+C:\Users\wesleycosta\Desktop\controle\Nova pasta (2)\usandonfc\usandonfc\Bin\Debug\usandonfc.pdb
+C:\Users\wesleycosta\Desktop\controle\Nova pasta (2)\usandonfc\usandonfc\Bin\Debug\AppManifest.xaml
+C:\Users\wesleycosta\Desktop\controle\Nova pasta (2)\usandonfc\usandonfc\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\wesleycosta\Desktop\controle\Nova pasta (2)\usandonfc\usandonfc\Bin\Debug\usandonfc_Debug_AnyCPU.xap
+C:\Users\wesleycosta\Desktop\controle\Nova pasta (2)\usandonfc\usandonfc\obj\Debug\App.g.cs
+C:\Users\wesleycosta\Desktop\controle\Nova pasta (2)\usandonfc\usandonfc\obj\Debug\Historico.g.cs
+C:\Users\wesleycosta\Desktop\controle\Nova pasta (2)\usandonfc\usandonfc\obj\Debug\MainPage.g.cs
+C:\Users\wesleycosta\Desktop\controle\Nova pasta (2)\usandonfc\usandonfc\obj\Debug\SecondPage.g.cs
+C:\Users\wesleycosta\Desktop\controle\Nova pasta (2)\usandonfc\usandonfc\obj\Debug\usandonfc.g.resources
+C:\Users\wesleycosta\Desktop\controle\Nova pasta (2)\usandonfc\usandonfc\obj\Debug\usandonfc.Resources.AppResources.resources
+C:\Users\wesleycosta\Desktop\controle\Nova pasta (2)\usandonfc\usandonfc\obj\Debug\usandonfc.csproj.GenerateResource.Cache
+C:\Users\wesleycosta\Desktop\controle\Nova pasta (2)\usandonfc\usandonfc\obj\Debug\usandonfc.dll
+C:\Users\wesleycosta\Desktop\controle\Nova pasta (2)\usandonfc\usandonfc\obj\Debug\usandonfc.pdb
+C:\Users\wesleycosta\Desktop\controle\Nova pasta (2)\usandonfc\usandonfc\obj\Debug\XapCacheFile.xml

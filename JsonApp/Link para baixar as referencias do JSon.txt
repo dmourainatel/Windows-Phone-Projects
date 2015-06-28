@@ -1,0 +1,5 @@
+Baixe no console do nuget pakage manager
+
+Install-Package Newtonsoft.Json
+
+Install-Package Microsoft.Net.Http

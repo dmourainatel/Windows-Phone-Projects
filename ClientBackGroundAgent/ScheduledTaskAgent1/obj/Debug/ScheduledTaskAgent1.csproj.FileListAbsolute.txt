@@ -1,0 +1,5 @@
+c:\users\diegou\documents\visual studio 2012\Projects\ClientBackGroundAgent\ScheduledTaskAgent1\Bin\Debug\ScheduledTaskAgent1.dll
+c:\users\diegou\documents\visual studio 2012\Projects\ClientBackGroundAgent\ScheduledTaskAgent1\Bin\Debug\ScheduledTaskAgent1.pdb
+c:\users\diegou\documents\visual studio 2012\Projects\ClientBackGroundAgent\ScheduledTaskAgent1\obj\Debug\ScheduledTaskAgent1.csprojResolveAssemblyReference.cache
+c:\users\diegou\documents\visual studio 2012\Projects\ClientBackGroundAgent\ScheduledTaskAgent1\obj\Debug\ScheduledTaskAgent1.dll
+c:\users\diegou\documents\visual studio 2012\Projects\ClientBackGroundAgent\ScheduledTaskAgent1\obj\Debug\ScheduledTaskAgent1.pdb

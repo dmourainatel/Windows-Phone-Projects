@@ -1,0 +1,4 @@
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\BackgroundLoggingApp\ScheduledTaskAgent1\Bin\Debug\ScheduledTaskAgent1.dll
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\BackgroundLoggingApp\ScheduledTaskAgent1\Bin\Debug\ScheduledTaskAgent1.pdb
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\BackgroundLoggingApp\ScheduledTaskAgent1\obj\Debug\ScheduledTaskAgent1.dll
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\BackgroundLoggingApp\ScheduledTaskAgent1\obj\Debug\ScheduledTaskAgent1.pdb

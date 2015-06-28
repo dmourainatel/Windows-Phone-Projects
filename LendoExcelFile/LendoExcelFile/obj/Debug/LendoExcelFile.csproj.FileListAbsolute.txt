@@ -1,0 +1,9 @@
+c:\users\diegou\documents\visual studio 2013\Projects\LendoExcelFile\LendoExcelFile\bin\Debug\LendoExcelFile.exe.config
+c:\users\diegou\documents\visual studio 2013\Projects\LendoExcelFile\LendoExcelFile\obj\Debug\LendoExcelFile.csprojResolveAssemblyReference.cache
+c:\users\diegou\documents\visual studio 2013\Projects\LendoExcelFile\LendoExcelFile\obj\Debug\LendoExcelFile.Form1.resources
+c:\users\diegou\documents\visual studio 2013\Projects\LendoExcelFile\LendoExcelFile\obj\Debug\LendoExcelFile.Properties.Resources.resources
+c:\users\diegou\documents\visual studio 2013\Projects\LendoExcelFile\LendoExcelFile\obj\Debug\LendoExcelFile.csproj.GenerateResource.Cache
+c:\users\diegou\documents\visual studio 2013\Projects\LendoExcelFile\LendoExcelFile\bin\Debug\LendoExcelFile.exe
+c:\users\diegou\documents\visual studio 2013\Projects\LendoExcelFile\LendoExcelFile\bin\Debug\LendoExcelFile.pdb
+c:\users\diegou\documents\visual studio 2013\Projects\LendoExcelFile\LendoExcelFile\obj\Debug\LendoExcelFile.exe
+c:\users\diegou\documents\visual studio 2013\Projects\LendoExcelFile\LendoExcelFile\obj\Debug\LendoExcelFile.pdb

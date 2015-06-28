@@ -1,0 +1,38 @@
+C:\Users\aluno\Desktop\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\aluno\Desktop\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\aluno\Desktop\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\aluno\Desktop\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\aluno\Desktop\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\aluno\Desktop\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\aluno\Desktop\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\Bin\Debug\DelegateApp.dll
+C:\Users\aluno\Desktop\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\Bin\Debug\DelegateApp.pdb
+C:\Users\aluno\Desktop\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\Bin\Debug\AppManifest.xaml
+C:\Users\aluno\Desktop\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\aluno\Desktop\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\Bin\Debug\DelegateApp_Debug_AnyCPU.xap
+C:\Users\aluno\Desktop\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\obj\Debug\App.g.cs
+C:\Users\aluno\Desktop\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\obj\Debug\MainPage.g.cs
+C:\Users\aluno\Desktop\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\obj\Debug\DelegateApp.g.resources
+C:\Users\aluno\Desktop\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\obj\Debug\DelegateApp.Resources.AppResources.resources
+C:\Users\aluno\Desktop\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\obj\Debug\DelegateApp.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\obj\Debug\DelegateApp.dll
+C:\Users\aluno\Desktop\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\obj\Debug\DelegateApp.pdb
+C:\Users\aluno\Desktop\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\obj\Debug\XapCacheFile.xml
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\Bin\Debug\DelegateApp.dll
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\Bin\Debug\DelegateApp.pdb
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\Bin\Debug\AppManifest.xaml
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\Bin\Debug\DelegateApp_Debug_AnyCPU.xap
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\obj\Debug\App.g.cs
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\obj\Debug\MainPage.g.cs
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\obj\Debug\DelegateApp.g.resources
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\obj\Debug\DelegateApp.Resources.AppResources.resources
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\obj\Debug\DelegateApp.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\obj\Debug\DelegateApp.dll
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\obj\Debug\DelegateApp.pdb
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\DelegateApp\DelegateApp\obj\Debug\XapCacheFile.xml

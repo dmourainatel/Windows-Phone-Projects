@@ -1,0 +1,13 @@
+c:\users\diegou\documents\visual studio 2012\Projects\PhoneAppTesteStorage\PhoneAppTesteStorage\obj\Debug\PhoneAppTesteStorage.csprojResolveAssemblyReference.cache
+c:\users\diegou\documents\visual studio 2012\Projects\PhoneAppTesteStorage\PhoneAppTesteStorage\obj\Debug\App.g.cs
+c:\users\diegou\documents\visual studio 2012\Projects\PhoneAppTesteStorage\PhoneAppTesteStorage\obj\Debug\MainPage.g.cs
+c:\users\diegou\documents\visual studio 2012\Projects\PhoneAppTesteStorage\PhoneAppTesteStorage\obj\Debug\PhoneAppTesteStorage.g.resources
+c:\users\diegou\documents\visual studio 2012\Projects\PhoneAppTesteStorage\PhoneAppTesteStorage\Bin\Debug\ApplicationIcon.png
+c:\users\diegou\documents\visual studio 2012\Projects\PhoneAppTesteStorage\PhoneAppTesteStorage\Bin\Debug\Background.png
+c:\users\diegou\documents\visual studio 2012\Projects\PhoneAppTesteStorage\PhoneAppTesteStorage\Bin\Debug\PhoneAppTesteStorage.dll
+c:\users\diegou\documents\visual studio 2012\Projects\PhoneAppTesteStorage\PhoneAppTesteStorage\Bin\Debug\PhoneAppTesteStorage.pdb
+c:\users\diegou\documents\visual studio 2012\Projects\PhoneAppTesteStorage\PhoneAppTesteStorage\Bin\Debug\AppManifest.xaml
+c:\users\diegou\documents\visual studio 2012\Projects\PhoneAppTesteStorage\PhoneAppTesteStorage\Bin\Debug\PhoneAppTesteStorage.xap
+c:\users\diegou\documents\visual studio 2012\Projects\PhoneAppTesteStorage\PhoneAppTesteStorage\obj\Debug\PhoneAppTesteStorage.dll
+c:\users\diegou\documents\visual studio 2012\Projects\PhoneAppTesteStorage\PhoneAppTesteStorage\obj\Debug\PhoneAppTesteStorage.pdb
+c:\users\diegou\documents\visual studio 2012\Projects\PhoneAppTesteStorage\PhoneAppTesteStorage\obj\Debug\XapCacheFile.xml

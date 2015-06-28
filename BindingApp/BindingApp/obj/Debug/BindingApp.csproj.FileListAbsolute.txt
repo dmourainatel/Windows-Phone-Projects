@@ -1,0 +1,40 @@
+c:\users\aluno\documents\visual studio 2013\Projects\BindingApp\BindingApp\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\aluno\documents\visual studio 2013\Projects\BindingApp\BindingApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\aluno\documents\visual studio 2013\Projects\BindingApp\BindingApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\aluno\documents\visual studio 2013\Projects\BindingApp\BindingApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\aluno\documents\visual studio 2013\Projects\BindingApp\BindingApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\aluno\documents\visual studio 2013\Projects\BindingApp\BindingApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\aluno\documents\visual studio 2013\Projects\BindingApp\BindingApp\Bin\Debug\BindingApp.dll
+c:\users\aluno\documents\visual studio 2013\Projects\BindingApp\BindingApp\Bin\Debug\BindingApp.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\BindingApp\BindingApp\Bin\Debug\AppManifest.xaml
+c:\users\aluno\documents\visual studio 2013\Projects\BindingApp\BindingApp\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\aluno\documents\visual studio 2013\Projects\BindingApp\BindingApp\Bin\Debug\BindingApp_Debug_AnyCPU.xap
+c:\users\aluno\documents\visual studio 2013\Projects\BindingApp\BindingApp\obj\Debug\App.g.cs
+c:\users\aluno\documents\visual studio 2013\Projects\BindingApp\BindingApp\obj\Debug\MainPage.g.cs
+c:\users\aluno\documents\visual studio 2013\Projects\BindingApp\BindingApp\obj\Debug\BindingApp.g.resources
+c:\users\aluno\documents\visual studio 2013\Projects\BindingApp\BindingApp\obj\Debug\BindingApp.Resources.AppResources.resources
+c:\users\aluno\documents\visual studio 2013\Projects\BindingApp\BindingApp\obj\Debug\BindingApp.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2013\Projects\BindingApp\BindingApp\obj\Debug\BindingApp.dll
+c:\users\aluno\documents\visual studio 2013\Projects\BindingApp\BindingApp\obj\Debug\BindingApp.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\BindingApp\BindingApp\obj\Debug\XapCacheFile.xml
+c:\users\aluno\documents\visual studio 2013\Projects\BindingApp\BindingApp\obj\Debug\PageExemplo.g.cs
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\BindingApp\BindingApp\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\BindingApp\BindingApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\BindingApp\BindingApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\BindingApp\BindingApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\BindingApp\BindingApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\BindingApp\BindingApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\BindingApp\BindingApp\Bin\Debug\BindingApp.dll
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\BindingApp\BindingApp\Bin\Debug\BindingApp.pdb
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\BindingApp\BindingApp\Bin\Debug\AppManifest.xaml
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\BindingApp\BindingApp\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\BindingApp\BindingApp\Bin\Debug\BindingApp_Debug_AnyCPU.xap
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\BindingApp\BindingApp\obj\Debug\App.g.cs
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\BindingApp\BindingApp\obj\Debug\MainPage.g.cs
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\BindingApp\BindingApp\obj\Debug\PageExemplo.g.cs
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\BindingApp\BindingApp\obj\Debug\BindingApp.g.resources
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\BindingApp\BindingApp\obj\Debug\BindingApp.Resources.AppResources.resources
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\BindingApp\BindingApp\obj\Debug\BindingApp.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\BindingApp\BindingApp\obj\Debug\BindingApp.dll
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\BindingApp\BindingApp\obj\Debug\BindingApp.pdb
+C:\Users\aluno\Desktop\Curso WP\Windows Phone Avançado II\Apps\BindingApp\BindingApp\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,13 @@
+c:\users\diegou\documents\visual studio 2012\Projects\IsolatedStorage\IsolatedStorage\Bin\Debug\ApplicationIcon.png
+c:\users\diegou\documents\visual studio 2012\Projects\IsolatedStorage\IsolatedStorage\Bin\Debug\Background.png
+c:\users\diegou\documents\visual studio 2012\Projects\IsolatedStorage\IsolatedStorage\Bin\Debug\IsolatedStorage.dll
+c:\users\diegou\documents\visual studio 2012\Projects\IsolatedStorage\IsolatedStorage\Bin\Debug\IsolatedStorage.pdb
+c:\users\diegou\documents\visual studio 2012\Projects\IsolatedStorage\IsolatedStorage\Bin\Debug\AppManifest.xaml
+c:\users\diegou\documents\visual studio 2012\Projects\IsolatedStorage\IsolatedStorage\Bin\Debug\IsolatedStorage.xap
+c:\users\diegou\documents\visual studio 2012\Projects\IsolatedStorage\IsolatedStorage\obj\Debug\IsolatedStorage.csprojResolveAssemblyReference.cache
+c:\users\diegou\documents\visual studio 2012\Projects\IsolatedStorage\IsolatedStorage\obj\Debug\App.g.cs
+c:\users\diegou\documents\visual studio 2012\Projects\IsolatedStorage\IsolatedStorage\obj\Debug\MainPage.g.cs
+c:\users\diegou\documents\visual studio 2012\Projects\IsolatedStorage\IsolatedStorage\obj\Debug\IsolatedStorage.g.resources
+c:\users\diegou\documents\visual studio 2012\Projects\IsolatedStorage\IsolatedStorage\obj\Debug\IsolatedStorage.dll
+c:\users\diegou\documents\visual studio 2012\Projects\IsolatedStorage\IsolatedStorage\obj\Debug\IsolatedStorage.pdb
+c:\users\diegou\documents\visual studio 2012\Projects\IsolatedStorage\IsolatedStorage\obj\Debug\XapCacheFile.xml

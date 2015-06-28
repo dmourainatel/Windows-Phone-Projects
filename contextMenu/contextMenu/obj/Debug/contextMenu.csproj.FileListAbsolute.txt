@@ -1,0 +1,76 @@
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\ApplicationIcon.png
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\Background.png
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\contextMenu.dll
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\contextMenu.pdb
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\obj\Debug\contextMenu.csprojResolveAssemblyReference.cache
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\obj\Debug\App.g.cs
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\obj\Debug\MainPage.g.cs
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\obj\Debug\contextMenu.g.resources
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\obj\Debug\contextMenu.dll
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\obj\Debug\contextMenu.pdb
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\AppManifest.xaml
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\Bin\Debug\contextMenu.xap
+c:\users\diegou\documents\visual studio 2012\Projects\contextMenu\contextMenu\obj\Debug\XapCacheFile.xml
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\ApplicationIcon.png
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\Background.png
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\contextMenu.dll
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\contextMenu.pdb
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\AppManifest.xaml
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\contextMenu.xap
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\obj\Debug\contextMenu.csprojResolveAssemblyReference.cache
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\obj\Debug\App.g.cs
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\obj\Debug\MainPage.g.cs
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\obj\Debug\contextMenu.g.resources
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\obj\Debug\contextMenu.dll
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\obj\Debug\contextMenu.pdb
+C:\Users\diegou\Desktop\Material MLAB\Documentos\Projects\contextMenu\contextMenu\obj\Debug\XapCacheFile.xml
